@@ -1,0 +1,16 @@
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\BibliotecaVirtual.Api.deps.json
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\BibliotecaVirtual.Api.runtimeconfig.json
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\BibliotecaVirtual.Api.runtimeconfig.dev.json
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\BibliotecaVirtual.Api.dll
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\bin\Debug\netcoreapp2.2\BibliotecaVirtual.Api.pdb
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.csprojAssemblyReference.cache
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.RazorAssemblyInfo.cache
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.RazorAssemblyInfo.cs
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.AssemblyInfoInputs.cache
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.AssemblyInfo.cs
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.RazorTargetAssemblyInfo.cache
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.dll
+C:\Users\jessica.p.happatsch\source\repos\BibliotecaVirtual\obj\Debug\netcoreapp2.2\BibliotecaVirtual.Api.pdb
